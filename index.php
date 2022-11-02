@@ -5,6 +5,10 @@
  *
  * @package WordPress
  */
+/*********
+*
+*Esto es una modificación
+*/
 
 /**
  * Tells WordPress to load the WordPress theme and output it.
