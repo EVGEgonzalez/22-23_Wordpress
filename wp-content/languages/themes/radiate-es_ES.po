@@ -1,0 +1,495 @@
+# Translation of Themes - Radiate in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Radiate package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-25 08:35:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Radiate\n"
+
+#. Description of the theme
+msgid "Radiate is a clean, creative and light retina ready responsive blogging theme supporting parallax header image. It integrates primary color option, custom background, custom css and few other features through WordPress customizer. The theme is translation ready and you can get free support on https://themegrill.com/support-forum. View demo at https://demo.themegrill.com/radiate."
+msgstr "Radiate es un tema para blogs limpio, creativo, ligero, adaptable y preparado para Retina, compatible con imagen Parallax de cabecera. Integra una opción de color principal, fondo personalizado, CSS personalizado y algunas otras características a través del personalizador de WordPress. El tema está listo para la traducción y puedes obtener soporte gratuito en https://themegrill.com/support-forum. Mira la demostración en https://demo.themegrill.com/radiate."
+
+#. Theme Name of the theme
+#: inc/admin/class-radiate-theme-review-notice.php:75
+#: inc/admin/class-radiate-welcome-notice.php:46 inc/extras.php:209
+msgid "Radiate"
+msgstr "Radiate"
+
+#: inc/admin/class-radiate-theme-review-notice.php:131
+msgid "I have a query"
+msgstr "Tengo una consulta"
+
+#: inc/admin/class-radiate-theme-review-notice.php:116
+msgid "Sure, I'd love to!"
+msgstr "¡Claro, me encantaría!"
+
+#. translators: %s: Smiley icon
+#: inc/admin/class-radiate-theme-review-notice.php:107
+msgid "Basically, it would encourage us to release updates regularly with new features & bug fixes so that you can keep on using the theme without any issues and also to provide free support like we have been doing. %s"
+msgstr "Básicamente, nos animaría a lanzar actualizaciones regularmente con nuevas características y correcciones de fallos para que puedas seguir usando el tema sin ningún problema y también para proporcionar soporte gratuito como lo hemos estado haciendo. %s"
+
+#: inc/admin/class-radiate-theme-review-notice.php:101
+msgid "What benefit would you have?"
+msgstr "¿Qué ventajas tendrías?"
+
+#. translators: %1$s: Opening of strong tag, %2$s: Theme's Name, %3$s: Closing
+#. of strong tag
+#: inc/admin/class-radiate-theme-review-notice.php:93
+msgid "Hope you are having a nice experience with %1$s %2$s %3$s theme. Please provide this theme a nice review."
+msgstr "Espero que estés teniendo una buena experiencia con el tema %1$s %2$s %3$s. Por favor, proporciona una buena valoración a este tema."
+
+#. translators: %s: Smile icon
+#: inc/admin/class-radiate-theme-review-notice.php:84
+msgid "The above word is just to draw your attention. %s"
+msgstr "La palabra anterior es solo para llamar tu atención. %s"
+
+#: inc/extras.php:211
+msgid "Powered by %s."
+msgstr "Funciona con %s."
+
+#: inc/extras.php:211
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr "Copyright &copy; %1$s %2$s. Todos los derechos reservados."
+
+#: inc/admin/class-radiate-dashboard.php:113
+msgid "Leave a review"
+msgstr "Dejar una valoración"
+
+#: inc/admin/class-radiate-dashboard.php:110
+msgid "Further Actions"
+msgstr "Otras acciones"
+
+#: inc/admin/class-radiate-dashboard.php:105
+msgid "Premium Version"
+msgstr "Versión premium"
+
+#: inc/admin/class-radiate-dashboard.php:104
+msgid "Starter Demos"
+msgstr "Demostraciones de inicio"
+
+#: inc/admin/class-radiate-dashboard.php:101
+msgid "Next Steps"
+msgstr "Siguientes pasos"
+
+#: inc/admin/class-radiate-dashboard.php:96
+msgid "Learn Basics"
+msgstr "Aprender lo básico"
+
+#: inc/admin/class-radiate-dashboard.php:93
+msgid "Get Started"
+msgstr "Primeros pasos"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-radiate-dashboard.php:87
+msgid "Important links to get you started with %s"
+msgstr "Enlaces importantes para empezar con %s"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-radiate-dashboard.php:81
+msgid "Welcome to %s!"
+msgstr "¡Bienvenido a %s!"
+
+#. translators: %s: Theme version.
+#: inc/admin/class-radiate-dashboard.php:72
+msgid "Radiate %s"
+msgstr "Radiate %s"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-radiate-dashboard.php:44
+msgid "%s Options"
+msgstr "Opciones de %s"
+
+#: inc/admin/class-radiate-upgrade-notice.php:100
+msgid "Got pre sales queries?"
+msgstr "¿Tienes consultas de preventa?"
+
+#: inc/admin/class-radiate-upgrade-notice.php:90
+msgid "Upgrade to pro"
+msgstr "Actualizar a Pro"
+
+#. Translators: %1$s current user display name., %2$s this theme name., %3$s
+#. discount coupon code., %4$s discount percentage.
+#: inc/admin/class-radiate-upgrade-notice.php:74
+msgid "Howdy, %1$s! You've been using %2$s theme for a while now, and we hope you're happy with it. To access more premium features you can always upgrade to pro. All contents and settings will remain as it is after upgrading to pro, you basically start from where you left. Also, you can use the coupon code %3$s to get %4$s discount (limited time offer) while making the purchase. Enjoy! "
+msgstr "¡Hola, %1$s! Has estado usando el tema %2$s desde hace un tiempo y esperamos que estés contento con él. Para acceder a más características premium siempre puedes actualizar a la versión Pro. Todos los contenidos y ajustes permanecerán como están después de actualizar a Pro, básicamente empiezas desde donde lo dejaste. Además, puedes usar el código de cupón %3$s para obtener un %4$s de descuento (oferta por tiempo limitado) mientras realizas la compra. ¡Disfruta!"
+
+#: inc/admin/class-radiate-admin.php:38
+msgid "Processing..."
+msgstr "Procesando..."
+
+#: inc/admin/class-radiate-welcome-notice.php:63
+msgid "Clicking the button will install and activate the ThemeGrill demo importer plugin."
+msgstr "Haciendo clic en el botón se instalará y activará el plugin importador de demostraciones de ThemeGrill."
+
+#: inc/admin/class-radiate-theme-review-notice.php:121
+msgid "I already did!"
+msgstr "¡Ya lo he hecho!"
+
+#: inc/admin/class-radiate-theme-review-notice.php:126
+#: inc/admin/class-radiate-upgrade-notice.php:95
+msgid "Maybe later"
+msgstr "Quizá más tarde"
+
+#: inc/related-posts.php:66
+msgid " % Comments"
+msgstr "% comentarios"
+
+#: inc/related-posts.php:66
+msgid "0 Comment"
+msgstr "0 comentarios"
+
+#: inc/related-posts.php:8
+msgid "You May Also Like"
+msgstr "Puede que también te guste"
+
+#: inc/customizer.php:219
+msgid "Related Posts By Tags"
+msgstr "Entradas relacionadas por etiquetas"
+
+#: inc/customizer.php:218
+msgid "Related Posts By Categories"
+msgstr "Entradas relacionadas por categorías"
+
+#: inc/customizer.php:214
+msgid "Related Posts Must Be Shown As:"
+msgstr "Las entradas relacionadas deben mostrarse como:"
+
+#: inc/customizer.php:195
+msgid "Check to activate the related posts"
+msgstr "Márcalo para activar las entradas relacionadas"
+
+#: inc/customizer.php:178
+msgid "Related Posts"
+msgstr "Entradas relacionadas"
+
+#: inc/admin/class-radiate-dashboard.php:112
+msgid "Got theme support question?"
+msgstr "¿Tienes alguna pregunta de soporte sobre el tema?"
+
+#: inc/admin/class-radiate-welcome-notice.php:26
+msgid "Get started with Radiate"
+msgstr "Primeros pasos con Radiate"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-radiate-welcome-notice.php:54
+msgid "Welcome! Thank you for choosing Radiate! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "¡Bienvenido! ¡Gracias por elegir Radiate! Para aprovechar al máximo lo mejor que nuestro tema puede ofrecer, asegúrate de visitar nuestra %1$spágina de bienvenida%2$s."
+
+#: inc/admin/class-radiate-notice.php:63 inc/admin/class-radiate-notice.php:82
+#: inc/admin/class-radiate-welcome-notice.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "Haciendo trampas, ¿eh?"
+
+#: inc/admin/class-radiate-notice.php:59 inc/admin/class-radiate-notice.php:78
+#: inc/admin/class-radiate-theme-review-notice.php:153
+#: inc/admin/class-radiate-theme-review-notice.php:171
+#: inc/admin/class-radiate-welcome-notice.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Acción fallida. Por favor, refresca la página e inténtalo de nuevo."
+
+#: inc/customizer.php:301
+msgid "Switch to full width menu style."
+msgstr "Cambia al estilo de menú de ancho completo."
+
+#: inc/customizer.php:320
+msgid "Switch to new responsive menu style."
+msgstr "Cambia a un nuevo estilo de menú adaptable."
+
+#: inc/customizer.php:283
+msgid "Responsive Menu Style"
+msgstr "Estilo de menú adaptable"
+
+#: inc/admin/class-radiate-dashboard.php:103
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/customizer.php:273
+msgid "Check to hide Header Search Icon."
+msgstr "Márcalo para ocultar el icono de búsqueda de la cabecera."
+
+#: inc/customizer.php:255
+msgid "Header Search Icon"
+msgstr "Icono de búsqueda de la cabecera"
+
+#: sidebar.php:26
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/template-tags.php:115
+msgid "Reply"
+msgstr "Respuesta"
+
+#: inc/template-tags.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: inc/template-tags.php:104
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Enlace permanente</a>"
+
+#: inc/template-tags.php:102
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: inc/template-tags.php:99
+msgid "Post author"
+msgstr "Autor de la entrada"
+
+#: inc/template-tags.php:84
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/template-tags.php:84
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:62
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:61
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:58
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#: inc/template-tags.php:33
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Entradas siguientes <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Entradas anteriores"
+
+#: inc/template-tags.php:25
+msgid "Posts navigation"
+msgstr "Navegación de entradas"
+
+#: inc/customizer.php:49
+msgid "View PRO version"
+msgstr "Ver la versión PRO"
+
+#: inc/customizer.php:245
+msgid "Check to enable the Author Bio in the single post page."
+msgstr "Márcalo para activar la biografía del autor en la página de entrada individual."
+
+#: inc/customizer.php:227
+msgid "Author Bio"
+msgstr "Biografía del autor"
+
+#: inc/customizer.php:168
+msgid "Third featured page"
+msgstr "Tercera página destacada"
+
+#: inc/customizer.php:160
+msgid "Second featured page"
+msgstr "Segunda página destacada"
+
+#: inc/customizer.php:152
+msgid "First featured page"
+msgstr "Primera página destacada"
+
+#: inc/customizer.php:121
+msgid "Front Page Featured Section"
+msgstr "Sección destacada de la portada"
+
+#: inc/customizer.php:110
+msgid "Add your custom css here and design live! (for advanced users)"
+msgstr "¡Añade aquí tu CSS personalizado y diseña en vivo! (para usuarios avanzados)"
+
+#: inc/customizer.php:90
+msgid "Custom CSS"
+msgstr "CSS Personallizado"
+
+#: inc/customizer.php:78
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: inc/customizer.php:59
+msgid "Site Title"
+msgstr "Título del sitio"
+
+#: inc/custom-header.php:42
+msgid "Header Image One"
+msgstr "Imagen uno de la cabecera"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:125
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: front-page.php:36
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/extras.php:211
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: inc/extras.php:207
+msgid "WordPress"
+msgstr "WordPress"
+
+#: content.php:46
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Leer más <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:54 content.php:80
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: content-single.php:54 content.php:80 inc/related-posts.php:66
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: content-single.php:54 content.php:80
+msgid "Leave a comment"
+msgstr "Dejar un comentario"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:34 content-single.php:44 content.php:60 content.php:70
+msgid ", "
+msgstr ", "
+
+#: content-page.php:29 content-single.php:57 content.php:83
+msgid "Edit"
+msgstr "Editar"
+
+#: content-page.php:24 content-single.php:24 content.php:49
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:41 comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios siguientes &rarr;"
+
+#: comments.php:40 comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:39 comments.php:57
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#: archive.php:65 sidebar.php:19
+msgid "Archives"
+msgstr "Archivos"
+
+#: archive.php:62
+msgid "Links"
+msgstr "Enlaces"
+
+#: archive.php:59
+msgid "Quotes"
+msgstr "Citas"
+
+#: archive.php:56
+msgid "Videos"
+msgstr "Vídeos"
+
+#: archive.php:53
+msgid "Images"
+msgstr "Imágenes"
+
+#: archive.php:50
+msgid "Asides"
+msgstr "Minientradas"
+
+#: archive.php:47
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: archive.php:44
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: archive.php:41
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: archive.php:33
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Try searching with some keywords."
+msgstr "Parece que no se ha encontrado nada en esta ubicación. Inténtalo buscando algunas palabras clave."
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#. Author URI of the theme
+msgid "https://themegrill.com/"
+msgstr "https://themegrill.com/"
+
+#. Author of the theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#. Theme URI of the theme
+msgid "https://themegrill.com/themes/radiate/"
+msgstr "https://themegrill.com/themes/radiate/"

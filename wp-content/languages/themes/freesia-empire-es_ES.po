@@ -1,0 +1,820 @@
+# Translation of Themes - Freesia Empire in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Freesia Empire package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-12 09:57:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Freesia Empire\n"
+
+#. Description of the theme
+msgid "Freesia Empire is a Responsive Multi-Purpose WordPress Theme, Designed & Developed by Theme Freesia. This theme supports popular plugins like Breadcrumb NavXT, WP-PageNavi, Contact Form 7, Jetpack by WordPress.com, Polylang, WPML Compatible, Newsletter, bbPress and WooCommerce. It is also translation ready and currently translated in French language. It is also easily customizable with lots of theme options using Customizer. It consists contact-template, gallery-template, freesiaempire-corporate template and with lots of widgets and sidebar. Get free support at https://tickets.themefreesia.com/ and View demo site at https://demo.themefreesia.com/freesia-empire."
+msgstr "Freesia Empire es un tema para WordPress multiuso y adaptable, diseñado y desarrollado por Theme Freesia. Este tema es compatible con plugins populares, como Breadcrumb NavXT, WP-PageNavi, Contact Form 7, Jetpack by WordPress.com, Polylang, WPML, Newsletter, bbPress y WooCommerce. También está preparado para traducción y, actualmente, traducido a los idiomas francés y español. También es fácilmente personalizable con muchas opciones del tema usando el personalizador. Consta de una plantilla de contacto, de galería, plantilla para empresas de Freesia Empire y con muchos widgets y barras laterales. Obtén soporte gratuito en https://tickets.themefreesia.com/ y revisa el sitio de demostración en https://demo.themefreesia.com/freesia-empire."
+
+#. Theme Name of the theme
+#: inc/upgrade-plus/class-customize.php:63
+msgid "Freesia Empire"
+msgstr "Freesia Empire"
+
+#: footer.php:83
+msgid "Y"
+msgstr "Y"
+
+#: footer.php:70
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/settings/freesiaempire-functions.php:223
+msgid "Slider Nav"
+msgstr "Navegación del carrusel"
+
+#. translators: %s theme name
+#: inc/welcome-notice.php:35
+msgid "Download Demo Import Plugin %s"
+msgstr "Descargar el plugin de importación de demostraciones de %s"
+
+#. translators: %1$s: theme name, %2$s link
+#: inc/welcome-notice.php:27
+msgid "Welcome! Thank you for choosing %1$s! View  <a href=\"%2$s\" target=\"_blank\" class=\"notice-links\">Multiple Demos</a> <a href=\"%3$s\" target=\"_blank\" class=\"notice-links\">Documentation</a>"
+msgstr "¡Bienvenido! ¡Gracias por elegir %1$s! Mira la <a href=\"%3$s\" target=\"_blank\" class=\"notice-links\">documentación</a> de las <a href=\"%2$s\" target=\"_blank\" class=\"notice-links\">múltiples demostraciones</a>"
+
+#. translators: %1$s: theme name, %2$s theme version
+#: inc/welcome-notice.php:20
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Bienvenido a %1$s - Versión %2$s"
+
+#. translators: %s: post title
+#: comments.php:21
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario sobre «%s»"
+
+#: inc/customizer/functions/theme-options.php:89
+msgid "Freesia Options"
+msgstr "Opciones de Freesia"
+
+#: inc/customizer/freesiaempire-default-values.php:31
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: inc/customizer/functions/theme-options.php:172
+msgid "Crop Excerpt length by text"
+msgstr "Recortar la longitud del extracto según el texto"
+
+#: functions.php:150
+msgid "Support Ticket"
+msgstr "Ticket de soporte"
+
+#: inc/upgrade-plus/class-customize.php:64
+msgid "Upgrade To Plus"
+msgstr "Actualizar a Plus"
+
+#: inc/customizer/functions/theme-options.php:160
+msgid "Display Page Featured Image"
+msgstr "Mostrar la imagen destacada de la página"
+
+#. Template Name of the theme
+msgid "Gallery Template"
+msgstr "Plantilla de galería"
+
+#. Template Name of the theme
+msgid "Corporate Template"
+msgstr "Plantilla empresarial"
+
+#. Template Name of the theme
+msgid "Contact Template"
+msgstr "Plantilla de contacto"
+
+#: single.php:109
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:108
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single.php:104
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: single.php:103
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: single.php:80
+msgid " "
+msgstr " "
+
+#: searchform.php:19
+msgid "Search ..."
+msgstr "Buscar..."
+
+#: page-templates/gallery-template.php:39 page.php:44 single.php:71
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: navigation.php:20
+msgid "Next Page &raquo;"
+msgstr "Página siguiente &raquo;"
+
+#: navigation.php:17
+msgid "&laquo; Previous Page"
+msgstr "&laquo; Página anterior"
+
+#: page-templates/gallery-template.php:52
+#: page-templates/contact-template.php:50 index.php:35 search.php:36
+#: page.php:55 single.php:96
+msgid "No Posts Found."
+msgstr "No se han encontrado entradas."
+
+#: inc/widgets/widgets-functions/testimonials-widgets.php:35
+msgid "Number of Testimonial:"
+msgstr "Número de recomendaciones:"
+
+#: inc/widgets/widgets-functions/testimonials-widgets.php:27
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: inc/widgets/widgets-functions/testimonials-widgets.php:24
+msgid "Upload Testimonial Background Image"
+msgstr "Subir una imagen de fondo para la recomendación"
+
+#: inc/widgets/widgets-functions/testimonials-widgets.php:13
+msgid "TF: FP Testimonial"
+msgstr "TF: FP recomendaciones"
+
+#: inc/widgets/widgets-functions/testimonials-widgets.php:11
+msgid "Display Testimonial on FrontPage"
+msgstr "Mostrar las recomendaciones en la página de inicio"
+
+#: inc/widgets/widgets-functions/register-widgets.php:76
+msgid "Add WooCommerce Widgets Only"
+msgstr "Añadir solo los widgets de WooCommerce"
+
+#: inc/widgets/widgets-functions/register-widgets.php:74
+msgid "WooCommerce Sidebar"
+msgstr "Barra lateral de WooCommerce"
+
+#: inc/widgets/widgets-functions/register-widgets.php:66
+msgid "Shows widgets at Footer Column "
+msgstr "Muestra los widgets en la columna del pie de página "
+
+#: inc/widgets/widgets-functions/register-widgets.php:64
+msgid "Footer Column "
+msgstr "Columna del pie de página "
+
+#: inc/widgets/widgets-functions/register-widgets.php:54
+msgid "Add Contact Form 7 Shortcode using text widgets Ex: [contact-form-7 id=\"137\" title=\"Contact form 1\"]"
+msgstr "Añade el shortcode de Contact Form 7 usando widgets de texto. Ejemplo: [contact-form-7 id=\"137\" title=\"Formulario de contacto 1\"]"
+
+#: inc/widgets/widgets-functions/register-widgets.php:52
+msgid "Shortcode For Contact Page"
+msgstr "Shortcode para la página de contacto"
+
+#: inc/widgets/widgets-functions/register-widgets.php:45
+msgid "Shows widgets on Contact Page Template."
+msgstr "Muestra los widgets en la plantilla de «Página de contacto»."
+
+#: inc/widgets/widgets-functions/register-widgets.php:43
+msgid "Contact Page Sidebar"
+msgstr "Barra lateral de la página de contacto"
+
+#: inc/widgets/widgets-functions/register-widgets.php:36
+msgid "Shows widgets on Front Page. You may use some of this widgets: TF: Featured Recent Work, TF: Testimonial, TF: Slogan"
+msgstr "Muestra los widgets en la página de inicio. Puedes utilizar algunos de estos widgets: TF: Trabajo reciente destacado, TF: Recomendaciones, TF: Eslogan"
+
+#: inc/widgets/widgets-functions/register-widgets.php:34
+msgid "Front Page Section"
+msgstr "Sección de la página de inicio"
+
+#: inc/widgets/widgets-functions/register-widgets.php:28
+msgid "Shows widgets on all page."
+msgstr "Muestra los widgets en todas las páginas."
+
+#: inc/widgets/widgets-functions/register-widgets.php:26
+msgid "Display Contact Info at Header "
+msgstr "Mostrar la información de contacto en la cabecera "
+
+#: inc/widgets/widgets-functions/register-widgets.php:19
+msgid "Shows widgets at Main Sidebar."
+msgstr "Muestra los widgets en la barra lateral principal."
+
+#: inc/widgets/widgets-functions/register-widgets.php:17
+msgid "Main Sidebar"
+msgstr "Barra lateral principal"
+
+#: inc/widgets/widgets-functions/testimonials-widgets.php:30
+#: inc/widgets/widgets-functions/post-widgets.php:51
+msgid "Select category"
+msgstr "Seleccionar categoría"
+
+#: inc/widgets/widgets-functions/post-widgets.php:48
+msgid "Show posts from a category"
+msgstr "Mostrar las entradas desde una categoría"
+
+#: inc/widgets/widgets-functions/post-widgets.php:47
+msgid "Show latest Posts"
+msgstr "Mostrar las últimas entradas"
+
+#: inc/widgets/widgets-functions/post-widgets.php:42
+msgid "Number of Post:"
+msgstr "Número de entradas:"
+
+#: inc/widgets/widgets-functions/post-widgets.php:36
+msgid "Description:"
+msgstr "Descripción:"
+
+#: inc/widgets/widgets-functions/post-widgets.php:26
+msgid "Check to hide entry format"
+msgstr "Márcalo para ocultar el formato de la entrada"
+
+#: inc/widgets/widgets-functions/post-widgets.php:13
+msgid "TF: FP Blog Widget"
+msgstr "TF: FP Widget de blog"
+
+#: inc/widgets/widgets-functions/post-widgets.php:11
+msgid "Displays Blog Widgets on FrontPage"
+msgstr "Muestra los widgets del blog en la página de inicio"
+
+#: inc/widgets/widgets-functions/portfolio-widgets.php:56
+msgid "Page"
+msgstr "Página"
+
+#: inc/widgets/widgets-functions/portfolio-widgets.php:47
+msgid "Button Url:"
+msgstr "URL del botón:"
+
+#: inc/widgets/widgets-functions/portfolio-widgets.php:41
+msgid "Button Text:"
+msgstr "Texto del botón:"
+
+#: inc/widgets/widgets-functions/post-widgets.php:30
+#: inc/widgets/widgets-functions/portfolio-widgets.php:33
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widgets/widgets-functions/portfolio-widgets.php:27
+msgid "Number of Works:"
+msgstr "Número de trabajos:"
+
+#: inc/widgets/widgets-functions/portfolio-widgets.php:7
+msgid "TF: FP Portfolio Widget"
+msgstr "TF: FP Widget de porfolio"
+
+#: inc/widgets/widgets-functions/portfolio-widgets.php:5
+msgid "Portfolio Widget (Front Page)"
+msgstr "Widget de porfolio (página de inicio)"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:62
+msgid "Email ID:"
+msgstr "ID de correo electrónico:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:56
+msgid "Skype ID:"
+msgstr "ID de Skype:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:50
+msgid "Phone No 2:"
+msgstr "Número de teléfono 2:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:44
+msgid "Phone No 1:"
+msgstr "Número de teléfono 1:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:38
+msgid "Address Link:"
+msgstr "Enlace de la dirección:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:32
+msgid "Address:"
+msgstr "Dirección:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:26
+msgid "Contact Title:"
+msgstr "Título de contacto:"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:13
+msgid "TF: Contact Us"
+msgstr "TF: Contacta con nosotros"
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:11
+msgid "Display Contact Us Information"
+msgstr "Mostrar la información de «Contacta con nosotros»"
+
+#: inc/settings/freesiaempire-common-functions.php:193
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: inc/settings/freesiaempire-common-functions.php:191
+msgid "Page NOT Found"
+msgstr "Página no encontrada"
+
+#: inc/settings/freesiaempire-common-functions.php:180
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/settings/freesiaempire-common-functions.php:178
+msgid "links"
+msgstr "enlaces"
+
+#: inc/settings/freesiaempire-common-functions.php:176
+msgid "Quotes"
+msgstr "Citas"
+
+#: inc/settings/freesiaempire-common-functions.php:174
+msgid "Status"
+msgstr "Estado"
+
+#: inc/settings/freesiaempire-common-functions.php:172
+msgid "Videos"
+msgstr "Vídeos"
+
+#: inc/settings/freesiaempire-common-functions.php:170
+msgid "Galleries"
+msgstr "Galerías"
+
+#: inc/settings/freesiaempire-common-functions.php:168
+msgid "Images"
+msgstr "Imágenes"
+
+#: inc/settings/freesiaempire-common-functions.php:166
+msgid "Asides"
+msgstr "Minientradas"
+
+#: inc/settings/freesiaempire-common-functions.php:164
+msgid "Audios"
+msgstr "Audios"
+
+#: inc/settings/freesiaempire-common-functions.php:162
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: inc/settings/freesiaempire-common-functions.php:160
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: inc/settings/freesiaempire-common-functions.php:158
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: inc/settings/freesiaempire-common-functions.php:155
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/settings/freesiaempire-common-functions.php:80
+msgid "Select layout for this specific Post only"
+msgstr "Selecciona el diseño solo para esta entrada específica"
+
+#: inc/settings/freesiaempire-common-functions.php:74
+msgid "Select layout for this specific Page only"
+msgstr "Selecciona el diseño solo para esta página específica"
+
+#: inc/settings/freesiaempire-common-functions.php:67
+msgid "Right sidebar Layout"
+msgstr "Diseño de barra lateral derecha"
+
+#: inc/settings/freesiaempire-common-functions.php:62
+msgid "Left sidebar Layout"
+msgstr "Diseño de barra lateral izquierda"
+
+#: inc/settings/freesiaempire-common-functions.php:52
+msgid "No sidebar Layout"
+msgstr "Diseño sin barra lateral"
+
+#: inc/settings/freesiaempire-common-functions.php:46
+msgid "Customizer"
+msgstr "Personalizador"
+
+#: inc/settings/freesiaempire-common-functions.php:46
+msgid "Default Layout Set in"
+msgstr "Diseño por defecto establecido en"
+
+#: inc/settings/freesiaempire-common-functions.php:21
+msgid "Newer Comments"
+msgstr "Comentarios siguientes"
+
+#: inc/settings/freesiaempire-common-functions.php:18
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: inc/settings/freesiaempire-common-functions.php:15
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: footer.php:86
+msgid "Powered by:"
+msgstr "Desarrollado por:"
+
+#: footer.php:85
+msgid "Designed by:"
+msgstr "Diseñado por:"
+
+#: footer.php:85
+msgid "Themefreesia"
+msgstr "Themefreesia"
+
+#: footer.php:86
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer/functions/theme-options.php:225
+msgid "Static Front Page"
+msgstr "Página de inicio estática"
+
+#: inc/customizer/functions/theme-options.php:220
+msgid "Navigation"
+msgstr "Navegación"
+
+#: inc/customizer/functions/theme-options.php:215
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer/functions/theme-options.php:210
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/customizer/functions/theme-options.php:202
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: inc/customizer/functions/theme-options.php:191
+msgid "Enter your custom CSS"
+msgstr "Introduce tu CSS personalizado"
+
+#: inc/customizer/functions/theme-options.php:185
+msgid "Reset all default settings. (Refresh it to view the effect)"
+msgstr "Restablecer todos los ajustes por defecto. (Refresca para ver el efecto)"
+
+#: inc/customizer/functions/theme-options.php:148
+msgid "Disable Buttom Social Icons"
+msgstr "Desactivar los botones de los iconos sociales"
+
+#: inc/customizer/functions/theme-options.php:136
+msgid "Disable Top Social Icons"
+msgstr "Desactivar iconos sociales de la parte superior"
+
+#: inc/customizer/functions/theme-options.php:124
+msgid "Disable Goto Top"
+msgstr "Desactivar «Ir arriba»"
+
+#: inc/customizer/functions/theme-options.php:112
+msgid "Disable Stick Menu"
+msgstr "Desactivar el menú fijo"
+
+#: inc/customizer/functions/theme-options.php:100
+msgid "Disable Search Form"
+msgstr "Desactivar el formulario de búsqueda"
+
+#: inc/customizer/functions/theme-options.php:85
+msgid "Disable"
+msgstr "Desactivar"
+
+#: inc/customizer/functions/theme-options.php:77
+msgid "Enable Custom Header Image"
+msgstr "Activar la imagen de cabecera personalizada"
+
+#: inc/customizer/functions/theme-options.php:67
+msgid "Display above Site Title"
+msgstr "Mostrar encima el título del sitio"
+
+#: inc/customizer/functions/theme-options.php:66
+msgid "Display below Site Title"
+msgstr "Mostrar debajo el título del sitio"
+
+#: inc/customizer/functions/theme-options.php:59
+msgid "Display Header Image"
+msgstr "Mostrar la imagen de la cabecera"
+
+#: inc/customizer/functions/theme-options.php:48
+msgid "Header Image"
+msgstr "Imagen de cabecera"
+
+#: inc/customizer/functions/theme-options.php:44
+msgid "Disable Both"
+msgstr "Desactivar ambos"
+
+#: inc/customizer/functions/theme-options.php:43
+msgid "Show Both"
+msgstr "Mostrar ambos"
+
+#: inc/customizer/functions/theme-options.php:42
+msgid "Display Site Logo Only"
+msgstr "Mostrar solo el logotipo del sitio"
+
+#: inc/customizer/functions/theme-options.php:41
+msgid "Display Site Title Only"
+msgstr "Mostrar solo el título del sitio"
+
+#: inc/customizer/functions/theme-options.php:34
+msgid "Site Logo/ Text Options"
+msgstr "Opciones del logotipo/texto del sitio"
+
+#: inc/customizer/functions/theme-options.php:21
+msgid "Site Logo"
+msgstr "Logo del sitio"
+
+#: inc/customizer/functions/theme-options.php:11
+msgid "Site Title & Logo Options"
+msgstr "Opciones del título del sitio y el logotipo"
+
+#: inc/customizer/functions/register-panel.php:47
+msgid "Freesia Empire Widgets"
+msgstr "Widgets de Freesia Empire"
+
+#: inc/customizer/functions/register-panel.php:37
+msgid "Freesia Empire Slider Options"
+msgstr "Opciones del carrusel de Freesia Empire"
+
+#: inc/customizer/functions/register-panel.php:27
+msgid "Freesia Empire Theme Options"
+msgstr "Opciones del tema Freesia Empire"
+
+#: inc/customizer/functions/register-panel.php:17
+msgid "Freesia Empire WordPress Settings"
+msgstr "Ajustes para WordPress de Freesia Empire"
+
+#: inc/customizer/functions/frontpage-features.php:67
+msgid " Feature #"
+msgstr " Característica #"
+
+#: inc/widgets/widgets-functions/portfolio-widgets.php:37
+#: inc/customizer/functions/frontpage-features.php:52
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/customizer/functions/frontpage-features.php:37
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/functions/frontpage-features.php:23
+msgid "Disable in Front Page"
+msgstr "Desactivar en la página de inicio"
+
+#: inc/customizer/functions/frontpage-features.php:12
+msgid "Display FrontPage Features"
+msgstr "Mostrar las características en la página de inicio"
+
+#: inc/customizer/functions/featured-content-customizer.php:48
+msgid " Page Slider #"
+msgstr " Carrusel de página #"
+
+#: inc/customizer/functions/featured-content-customizer.php:35
+msgid "Display Page Slider"
+msgstr "Mostrar el carrusel de página"
+
+#: inc/customizer/functions/featured-content-customizer.php:31
+msgid "Disable Slider"
+msgstr "Desactivar el carrusel"
+
+#: inc/customizer/functions/featured-content-customizer.php:30
+#: inc/customizer/functions/theme-options.php:84
+msgid "Entire Site"
+msgstr "En todo el sitio"
+
+#: inc/customizer/functions/featured-content-customizer.php:29
+#: inc/customizer/functions/theme-options.php:83
+msgid "Front Page"
+msgstr "Página de inicio"
+
+#: inc/customizer/functions/featured-content-customizer.php:23
+msgid "Enable Slider"
+msgstr "Activar el carrusel"
+
+#: inc/customizer/functions/featured-content-customizer.php:12
+msgid "Slider Settings"
+msgstr "Ajustes del carrusel"
+
+#: inc/customizer/functions/design-options.php:151
+msgid "Hide Blog Header"
+msgstr "Ocultar la cabecera del blog"
+
+#: inc/customizer/functions/design-options.php:150
+msgid "Show Blog Header"
+msgstr "Mostrar la cabecera del blog"
+
+#: inc/customizer/functions/design-options.php:134
+msgid "Small Boxed Layout"
+msgstr "Diseño de cajas pequeñas"
+
+#: inc/customizer/functions/design-options.php:133
+msgid "Boxed Layout"
+msgstr "Diseño en caja"
+
+#: inc/customizer/functions/design-options.php:132
+#: inc/settings/freesiaempire-common-functions.php:57
+msgid "Full Width Layout"
+msgstr "Diseño de ancho completo"
+
+#: inc/customizer/functions/design-options.php:126
+#: inc/customizer/functions/design-options.php:144
+msgid "Design Layout"
+msgstr "Estructura del diseño"
+
+#: inc/customizer/functions/design-options.php:116
+msgid "Hide Entry Meta"
+msgstr "Ocultar los datos meta de la entrada"
+
+#: inc/customizer/functions/design-options.php:115
+msgid "Display Entry Meta"
+msgstr "Mostrar los datos meta de la entrada"
+
+#: inc/customizer/functions/design-options.php:110
+msgid "Disable Entry Meta from Blog Page"
+msgstr "Desactivar los datos meta de las entradas en la página del blog"
+
+#: inc/customizer/functions/design-options.php:100
+msgid "Hide Button Only"
+msgstr "Ocultar solo el botón"
+
+#: inc/customizer/functions/design-options.php:99
+msgid "Show Button Only"
+msgstr "Mostrar solo el botón"
+
+#: inc/customizer/functions/design-options.php:98
+msgid "Hide Entry Format"
+msgstr "Ocultar el formato de la entrada"
+
+#: inc/customizer/functions/design-options.php:97
+msgid "Display Entry Format"
+msgstr "Mostrar el formato de la entrada"
+
+#: inc/customizer/functions/design-options.php:92
+msgid "Disable Entry Format from Blog Page"
+msgstr "Desactivar el formato de las entradas en la página del blog"
+
+#: inc/customizer/functions/design-options.php:82
+msgid "Blog medium image display"
+msgstr "Mostrar la imagen mediana en el blog"
+
+#: inc/customizer/functions/design-options.php:81
+msgid "Blog large image display"
+msgstr "Mostrar la imagen grande en el blog"
+
+#: inc/customizer/functions/design-options.php:75
+msgid "Blog Image Display Layout"
+msgstr "Estructura del diseño de la imagen del blog"
+
+#: inc/customizer/functions/design-options.php:65
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/customizer/functions/design-options.php:64
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/customizer/functions/design-options.php:63
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer/functions/design-options.php:62
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer/functions/design-options.php:56
+msgid "Sidebar Layout Options"
+msgstr "Opciones del diseño de la barra lateral"
+
+#: inc/customizer/functions/design-options.php:39
+msgid "Animation Options"
+msgstr "Opciones de animación"
+
+#: inc/customizer/functions/design-options.php:29
+#: inc/customizer/functions/design-options.php:46
+msgid "OFF"
+msgstr "APAGADO"
+
+#: inc/customizer/functions/design-options.php:28
+#: inc/customizer/functions/design-options.php:45
+msgid "ON "
+msgstr "ENCENDIDO"
+
+#: inc/customizer/functions/design-options.php:22
+msgid "Responsive Layout"
+msgstr "Diseño adaptable"
+
+#: inc/customizer/functions/design-options.php:11
+msgid "Layout Options"
+msgstr "Opciones del diseño"
+
+#: functions.php:163
+msgid "About Freesia Empire"
+msgstr "Acerca de Freesia Empire"
+
+#: functions.php:156 functions.php:157
+msgid "View ThemeFreesia Themes"
+msgstr "Ver temas de ThemeFreesia"
+
+#: functions.php:153 functions.php:154
+msgid "View Demo"
+msgstr "Ver la demostración"
+
+#: functions.php:151
+msgid "Forum"
+msgstr "Foro"
+
+#: functions.php:147 functions.php:148
+msgid "Theme Instructions"
+msgstr "Instrucciones del tema"
+
+#: functions.php:144 functions.php:145
+msgid "Review Freesia Empire"
+msgstr "Valorar Freesia Empire"
+
+#: functions.php:55
+msgid "Add Social Icons Only"
+msgstr "Añadir solo los iconos sociales"
+
+#: header.php:80 header.php:86 functions.php:54
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: footer.php:95
+msgid "Go to Top"
+msgstr "Volver arriba"
+
+#: page-templates/freesiaempire-corporate.php:83 content.php:76
+#: inc/widgets/widgets-functions/post-widgets.php:150
+#: inc/widgets/widgets-functions/portfolio-widgets.php:145
+#: inc/customizer/freesiaempire-default-values.php:24
+#: inc/settings/freesiaempire-functions.php:205
+msgid "Read More"
+msgstr "Leer más"
+
+#: content.php:64 single.php:85
+msgid ", "
+msgstr ", "
+
+#: content.php:62 single.php:84
+msgid "Category : "
+msgstr "Categoría: "
+
+#: content.php:41 single.php:62
+msgid "Comments Off"
+msgstr "Comentarios desactivados"
+
+#: content.php:41 single.php:62
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: content.php:41 single.php:62
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: content.php:41 single.php:62
+msgid "No Comments"
+msgstr "No hay comentarios"
+
+#: content.php:40 single.php:61
+msgid "Comment  :"
+msgstr "Comentario:"
+
+#: content.php:38 single.php:58
+msgid "Date  :"
+msgstr "Fecha:"
+
+#: content.php:36 single.php:57
+msgid "Author :"
+msgstr "Autor:"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:25
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario sobre «%2$s»"
+msgstr[1] "%1$s comentarios sobre «%2$s»"
+
+#: 404.php:34
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada en esa ubicación ¿quieres probar a buscar?"
+
+#: 404.php:31
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#. Author URI of the theme
+msgid "https://themefreesia.com"
+msgstr "https://themefreesia.com"
+
+#. Theme URI of the theme
+msgid "https://themefreesia.com/themes/freesia-empire"
+msgstr "https://themefreesia.com/themes/freesia-empire"
+
+#. Author of the theme
+#: footer.php:85
+msgid "Theme Freesia"
+msgstr "Theme Freesia"
